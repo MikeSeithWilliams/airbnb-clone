@@ -1,0 +1,21 @@
+# Java-Kompilierte Dateien
+*.class
+
+# Build-Verzeichnisse
+target/
+bin/
+out/
+
+# IDE- und Editor-spezifische Dateien
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# Log-Dateien
+*.log
+
+# Betriebssystem-spezifische Dateien
+.DS_Store
+Thumbs.db
